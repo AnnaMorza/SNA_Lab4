@@ -143,3 +143,53 @@ main
 
 exit 0
 
+# Output:
+
+# annamorozova@Asus:~/SNA_Lab4$ bash script3.sh
+# ╔══════════════════════════════════════════════╗
+# ║             SYSTEM INFORMATION               ║
+# ╚══════════════════════════════════════════════╝
+# 
+# ═══════════════════════════════════════════════
+# ► KERNEL INFORMATION
+# ═══════════════════════════════════════════════
+# Kernel name: Linux
+# Kernel version: 6.17.0-14-generic
+# System architecture: x86_64
+# 
+# ═══════════════════════════════════════════════
+# ► LOGGED IN USERS
+# ═══════════════════════════════════════════════
+# annamorozova logged in at 2026-02-18 (PID: 18:59)
+# annamorozova logged in at 2026-02-18 (PID: 19:00)
+# annamorozova logged in at 2026-02-18 (PID: 19:00)
+# 
+# ═══════════════════════════════════════════════
+# ► EFI STATUS
+# ═══════════════════════════════════════════════
+# ✓ EFI is enabled (UEFI mode)
+# EFI architecture: 64-bit
+# 
+# ═══════════════════════════════════════════════
+# ► BLOCK DEVICES
+# ═══════════════════════════════════════════════
+# Device       Size  Type  Mountpoint
+# ----------------------------------------
+# nvme0n1     238.5G disk
+# ├─nvme0n1p1   260M part /boot/efi
+# ├─nvme0n1p2    16M part
+# ├─nvme0n1p3 220.7G part
+# ├─nvme0n1p4   700M part
+# ├─nvme0n1p5   200M part
+# └─nvme0n1p6  16.7G part /
+# 
+# ═══════════════════════════════════════════════
+# ► FIRST BOOT DEVICE
+# ═══════════════════════════════════════════════
+# First boot device (UEFI):  Ubuntu	HD(1,GPT,9289e61d-32b9-4a67-a1d0-0aabfba3f07a,0x800,0x82000)/File(I
+#                                                                                                            UNTU\SHIMX64.EFI)
+# 
+# ✓ System check completed at Wed Feb 18 08:46:06 PM MSK 2026
+# annamorozova@Asus:~/SNA_Lab4$ 
+
+
